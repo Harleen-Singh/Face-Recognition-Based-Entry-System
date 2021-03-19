@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AlertDialog" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:windowBackground">@drawable/selection_page_login</item>
+        <item name="colorAccent">@color/my_purple</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

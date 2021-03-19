@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reco</string>
+    <string name="base_url">https://frozen-wildwood-57358.herokuapp.com/</string>
+</resources>

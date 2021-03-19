@@ -1,0 +1,1 @@
+web: gunicorn FaceRecognitionApp.wsgi:application --log-file -
